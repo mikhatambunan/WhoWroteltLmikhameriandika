@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bookInput" type="id" />
+    <item name="titleText" type="id" />
+    <item name="authorText" type="id" />
+</resources>
